@@ -8,13 +8,26 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hightecular95908&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hirotanaka0718&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
     height="175"
     alt="languages graph" />
   <img
-    src="https://streak-stats.demolab.com/?user=hightecular95908&theme=neon&hide_border=true&card_width=420"
+    src="https://streak-stats.demolab.com/?user=hirotanaka0718&theme=neon&hide_border=true&card_width=420"
     height="175"
     alt="languages graph" />
+</div>
+<hr />
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirotanaka0718&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/hirotanaka0718/hirotanaka0718/output/github-contribution-grid-snake.svg">
+  <img src="./metrics.plugin.calendar.full.svg">
+
+  
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hirotanaka0718&theme=flat&no-frame=false&no-bg=false&margin-w=4">
+  <img src="./metrics.plugin.achievements.compact.svg">
 </div>
 
 ###
