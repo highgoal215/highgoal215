@@ -161,6 +161,30 @@
   <tr>
     <td align="center" width="128">
       <img
+        src="https://techstack-generator.vercel.app/python-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />Python
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/cpp-icon.svg"
+        width="65"
+        height="65"
+        alt="FastAPI" />
+      <br />C++
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/csharp-icon.svg"
+        width="65"
+        height="65"
+        alt="Ruby" />
+      <br />C#
+    </td>
+    <td align="center" width="128">
+      <img
         src="https://techstack-generator.vercel.app/aws-icon.svg"
         alt="icon"
         width="65"
@@ -185,19 +209,11 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=go"
+        src="https://skillicons.dev/icons?i=qt"
         width="65"
         height="65"
         alt="MongoDB" />
-      <br />Go
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=ruby"
-        width="65"
-        height="65"
-        alt="Ruby" />
-      <br />Ruby
+      <br />Qt
     </td>
     <td align="center" width="128">
       <img
@@ -206,22 +222,6 @@
         height="65"
         alt="PostgreSQL" />
       <br />PostgreSQL
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=fastapi"
-        width="65"
-        height="65"
-        alt="FastAPI" />
-      <br />FastAPI
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://techstack-generator.vercel.app/docker-icon.svg"
-        alt="icon"
-        width="65"
-        height="65" />
-      <br />Docker
     </td>
   </tr>
 </table>
