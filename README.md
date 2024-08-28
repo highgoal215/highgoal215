@@ -27,7 +27,7 @@
 <h1 align="center">Trading Strategy</h1>
 <br clear="both" />
   <img src="./images/Ninjatrading.PNG">
-  <hr/>
+  <!-- <hr/> -->
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirotanaka0718&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
   <hr/>
   <img src="https://raw.githubusercontent.com/noahsim222/noahsim222/output/github-contribution-grid-snake.svg">
