@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Full Stack Web & Trading Designer</h1>
+<h1 align="center">Senior Trading & Web Developer</h1>
 
 ###
 
