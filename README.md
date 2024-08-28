@@ -16,17 +16,27 @@
     height="175"
     alt="languages graph" />
 </div>
-<hr />
+<br clear="both" />
+<h1 align="center">Lurny Company</h1>
+<br clear="both" />
 <div align="center">
-  <img src="./images/5.png" width="500">
+  <img src="./images/Untitled.png">
   <img src="./images/2.png">
+
+<br clear="both" />
+<h1 align="center">Trading Strategy</h1>
+<br clear="both" />
   <img src="./images/Ninjatrading.PNG">
+  <hr/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirotanaka0718&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <hr/>
   <img src="https://raw.githubusercontent.com/noahsim222/noahsim222/output/github-contribution-grid-snake.svg">
 </div>
 <div align="center">
+  <hr/>
   <img src="https://github-profile-trophy.vercel.app/?username=hirotanaka0718&theme=flat&no-frame=false&no-bg=false&margin-w=4">
-  <img src="./metrics.plugin.achievements.compact.svg">
+  <hr/>
+  <img src="./metrics.plugin.achievements.compact.svg" width="1000">
 </div>
 
 ###
