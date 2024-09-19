@@ -8,11 +8,11 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hirotanaka0718&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=senior106&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
     height="175"
     alt="languages graph" />
   <img
-    src="https://streak-stats.demolab.com/?user=hirotanaka0718&theme=neon&hide_border=true&card_width=420"
+    src="https://streak-stats.demolab.com/?user=senior106&theme=neon&hide_border=true&card_width=420"
     height="175"
     alt="languages graph" />
 </div>
@@ -28,13 +28,13 @@
 <br clear="both" />
   <img src="./images/Ninjatrading.PNG">
   <!-- <hr/> -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirotanaka0718&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=senior106&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
   <hr/>
   <img src="https://raw.githubusercontent.com/noahsim222/noahsim222/output/github-contribution-grid-snake.svg">
 </div>
 <div align="center">
   <hr/>
-  <img src="https://github-profile-trophy.vercel.app/?username=hirotanaka0718&theme=flat&no-frame=false&no-bg=false&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=senior106&theme=flat&no-frame=false&no-bg=false&margin-w=4">
   <hr/>
   <img src="./metrics.plugin.achievements.compact.svg" width="1000">
 </div>
