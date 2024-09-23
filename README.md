@@ -29,8 +29,8 @@
   <img src="./images/Ninjatrading.PNG">
   <!-- <hr/> -->
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=senior106&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
-  <hr/>
-  <img src="https://raw.githubusercontent.com/noahsim222/noahsim222/output/github-contribution-grid-snake.svg">
+  <!-- <hr/> -->
+  <!-- <img src="https://raw.githubusercontent.com/noahsim222/noahsim222/output/github-contribution-grid-snake.svg"> -->
 </div>
 <div align="center">
   <hr/>
