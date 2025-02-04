@@ -17,7 +17,7 @@
     alt="languages graph" />
 </div>
 <br clear="both" />
-<h1 align="center">HR Company</h1>
+<h1 align="center"></h1>
 <br clear="both" />
 <div align="center">
   <img src="./images/Untitled.png">
