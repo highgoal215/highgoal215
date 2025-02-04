@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Senior Trading & Web Developer</h1>
+<h1 align="center">Senior FBT Engineer</h1>
 <hr/>
 ###
 
@@ -17,7 +17,7 @@
     alt="languages graph" />
 </div>
 <br clear="both" />
-<h1 align="center">Lurny Company</h1>
+<h1 align="center">HR Company</h1>
 <br clear="both" />
 <div align="center">
   <img src="./images/Untitled.png">
