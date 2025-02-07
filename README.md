@@ -2,7 +2,7 @@
 
 <h1 align="center">Senior FullStack & Blockchain Engineer</h1>
 <hr/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aidenwong812&label=Profile%20views&color=0e75b6&style=flat" alt="aidenwong812" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aidenwong812&label=Profile%20views&color=0e75b6&style=flat" alt="highgoal215" /> </p>
 
 - 🌱 Senior Full stack developer.
 
@@ -17,8 +17,8 @@
   
 <br>
 <p align="center">
-<p><img align="left" src="https://github-readme-stats-eight-ruby-89.vercel.app/api/top-langs?username=V0410&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats-eight-ruby-89.vercel.app/api?username=V0410&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats-eight-ruby-89.vercel.app/api/top-langs?username=higohgoal215&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-eight-ruby-89.vercel.app/api?username=V0410&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="820" /></p>
 <br><br><br><br><br><br><br><br><br>
 
 <br clear="both" />
