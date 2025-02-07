@@ -13,13 +13,13 @@
     • Backend Development with Node.JS,Express.Js, GraphQL, Golang, Django, Laravel, Slim.
 
     • Blockchain Development (DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust, FunC, EVM, Solana, Ton, Polkadot and Cosmos SDK etc).
-    
+
     • Trading Bot Development with MT4,MT5, IBKR, SieraChart, TradingView, TradeStation, NinjaTrader.
   
 <br>
 <p align="center">
 <p><img align="left" src="https://github-readme-stats-eight-ruby-89.vercel.app/api/top-langs?username=higohgoal215&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats-eight-ruby-89.vercel.app/api?username=V0410&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="820" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-eight-ruby-89.vercel.app/api?username=highgoal215&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="720" /></p>
 <br><br><br><br><br><br><br><br><br>
 
 <br clear="both" />
