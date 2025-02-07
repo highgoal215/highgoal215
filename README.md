@@ -12,7 +12,8 @@
   
     • Backend Development with Node.JS,Express.Js, GraphQL, Golang, Django, Laravel, Slim.
 
-    • Blockchain Development (DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust, FunC, EVM, Solana, Ton, Polkadot and Cosmos SDK etc)
+    • Blockchain Development (DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust, FunC, EVM, Solana, Ton, Polkadot and Cosmos SDK etc).
+    
     • Trading Bot Development with MT4,MT5, IBKR, SieraChart, TradingView, TradeStation, NinjaTrader.
   
 <br>
