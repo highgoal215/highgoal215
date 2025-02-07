@@ -16,21 +16,16 @@
 
     • Trading Bot Development with MT4,MT5, IBKR, SieraChart, TradingView, TradeStation, NinjaTrader.
   
-<br>
-<p align="center">
-<p><img align="left" src="https://github-readme-stats-eight-ruby-89.vercel.app/api/top-langs?username=higohgoal215&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats-eight-ruby-89.vercel.app/api?username=highgoal215&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="720" /></p>
-<br><br><br><br><br><br><br><br><br>
 
 <br clear="both" />
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=senior106&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=highgoal215&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
     height="175"
     alt="languages graph" />
   <img
-    src="https://streak-stats.demolab.com/?user=senior106&theme=neon&hide_border=true&card_width=420"
+    src="https://streak-stats.demolab.com/?user=highgoal215&theme=neon&hide_border=true&card_width=420"
     height="175"
     alt="languages graph" />
 </div>
@@ -46,13 +41,13 @@
 <br clear="both" />
   <img src="./images/Ninjatrading.PNG">
   <!-- <hr/> -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=senior106&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=highgoal215&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
   <!-- <hr/> -->
   <!-- <img src="https://raw.githubusercontent.com/noahsim222/noahsim222/output/github-contribution-grid-snake.svg"> -->
 </div>
 <div align="center">
   <hr/>
-  <img src="https://github-profile-trophy.vercel.app/?username=senior106&theme=flat&no-frame=false&no-bg=false&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=highgoal215&theme=flat&no-frame=false&no-bg=false&margin-w=4">
   <hr/>
   <img src="./metrics.plugin.achievements.compact.svg" width="1000">
 </div>
