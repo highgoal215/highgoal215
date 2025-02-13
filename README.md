@@ -4,11 +4,11 @@
 <hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidenwong812&label=Profile%20views&color=0e75b6&style=flat" alt="highgoal215" /> </p>
 
-- 🌱 Senior Full stack developer.
+- 🌱 Senior Full stack  | Blockchain Engineer.
 
 - 🌱 Major Experiences
 
-    • Web design and Fronend Develpment with React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS.
+    • Web design and Frontend Development with React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS.
   
     • Backend Development with Node.JS,Express.Js, GraphQL, Golang, Django, Laravel, Slim.
 
