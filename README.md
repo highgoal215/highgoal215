@@ -4,7 +4,7 @@
 <hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidenwong812&label=Profile%20views&color=0e75b6&style=flat" alt="highgoal215" /> </p>
 
-- 🌱 Senior Full stack  | Blockchain Engineer.
+- 🌱 Senior Full stack & Blockchain Engineer.
 
 - 🌱 Major Experiences
 
@@ -41,10 +41,10 @@
 <h1 align="center">Trading Strategy</h1>
 <br clear="both" />
   <img src="./images/Ninjatrading.PNG">
-  <!-- <hr/> -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=highgoal215&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
-  <!-- <hr/> -->
-  <!-- <img src="https://raw.githubusercontent.com/noahsim222/noahsim222/output/github-contribution-grid-snake.svg"> -->
+  <hr/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=highgoal215&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <hr/>
+  <img src="https://raw.githubusercontent.com/noahsim222/noahsim222/output/github-contribution-grid-snake.svg">
 </div>
 <div align="center">
   <hr/>
