@@ -15,6 +15,7 @@
     • Blockchain Development (DePIN, DeFi, NFT, DApps, DEX, P2E and Smart Contract with Solidity, Rust, FunC, EVM, Solana, Ton, Polkadot and Cosmos SDK etc).
 
     • Trading Bot Development with MT4,MT5, IBKR, SieraChart, TradingView, TradeStation, NinjaTrader.
+    • AI Development with Chatbot, AI Agent, NLP, LLM, ML, Image/voice detection.
   
 
 
