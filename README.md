@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Senior FullStack & Blockchain Engineer</h1>
+<h1 align="center"> FullStack & Blockchain Engineer</h1>
 <hr/>
 <p align="left" fontsize="14"> <img src="https://komarev.com/ghpvc/?username=aidenwong812&label=Profile%20views&color=0e75b6&style=flat" alt="highgoal215" /> </p>
 
