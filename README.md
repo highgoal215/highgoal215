@@ -2,7 +2,7 @@
 
 <h1 align="center" style="font-size:28px; color:blue;"> FullStack & Blockchain Engineer</h1>
 <hr/>
-<h2 align="left" style="font-size:20px; color:blue;"> <img src="https://komarev.com/ghpvc/?username=aidenwong812&label=Profile%20views&color=0e75b6&style=flat" alt="highgoal215" /> </h2>
+<h2 align="left" style="font-size:40px;"> <img src="https://komarev.com/ghpvc/?username=aidenwong812&label=Profile%20views&color=0e75b6&style=flat" alt="highgoal215" /> </h2>
 
 - 🌱 Major Experiences
 
